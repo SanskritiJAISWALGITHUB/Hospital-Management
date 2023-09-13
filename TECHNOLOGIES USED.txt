@@ -1,0 +1,19 @@
+
+Technologies Used
+Frontend – Html , CSS, Bootstrap , JavaScript, Bootstrap
+
+Backend – Servlet , JDBC
+
+Database – MySQL
+
+Server– Apache tomcat server
+
+Tools – Eclipse Ide, MySQL workbench
+
+If you want source code and setup in Your laptop then contact us WhatsApp no- 8093870560
+
+Hospital System Overview
+
+Hospital Management System Project Full Source Code
+
+
